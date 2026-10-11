@@ -8,6 +8,6 @@ Programação Web.
 - HTML
 - Git
 - GitHub
-## Capturas das Evidências
+## Captura das Evidências
 ![Captura de tela da minha primeira página Web](01env.png)
 ![Captura de tela da minha primeira página Web](02env.png)
